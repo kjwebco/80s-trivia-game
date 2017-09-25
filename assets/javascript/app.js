@@ -1,6 +1,6 @@
 
 var panel = $("#quiz-area");
-var countStartNumber = 90;
+var countStartNumber = 30;
 
 // Question set
 var questions = [{
